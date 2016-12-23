@@ -1,0 +1,1 @@
+1:insert some text into file2:insert nextline 2
