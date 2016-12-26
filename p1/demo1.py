@@ -14,13 +14,11 @@ print myname
 print myAdd
 print myMac
 
-#--------------------------------------------------------------------------------------------------------
 
 import os
 #print os.system('ipconfig /all')
 #print os.system('ping www.xunlei.com')
 
-#--------------------------------------------------------------------------------------------------------
 
 language = 'python'
 def foo1():
