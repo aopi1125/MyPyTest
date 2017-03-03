@@ -1,0 +1,1229 @@
+<body>
+        <ul class="article-list">
+        <!-- // -->
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/582ea2c7be801.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/540" class="link">DT 时代的前端思考</a>
+                    <a href="/slide/download/540/582ea2213af96.pdf/13" target="_blank"><i class="fa fa-download"></i></a><br/>
+                    <span class="date">周璐（靖一） 2016-11-18</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/58101a9f6caa4.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/539" class="link">深入理解用户体验策略</a>
+                    <a href="/slide/download/539/58101a498a9ea.pdf/13" target="_blank"><i class="fa fa-download"></i></a><br/>
+                    <span class="date">Jaime Levy 2016-10-26</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580d7d4497ec0.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/537" class="link">应对持续交付实施挑战的策略</a>
+                    <a href="/slide/download/537/580d7a1a65277.pdf/13" target="_blank"><i class="fa fa-download"></i></a><br/>
+                    <span class="date">陈连平 2016-10-24</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580b8357ab888.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/536" class="link">Progressive Web App：反击序章</a>
+                    <a href="/slide/download/536/580b82a7b8d3c.pdf/13" target="_blank"><i class="fa fa-download"></i></a><br/>
+                    <span class="date">黄玄 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580b7670e005d.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/535" class="link">数据平台实时化实践</a>
+                    <a href="/slide/download/535/580b7644a00f6.pdf/13" target="_blank"><i class="fa fa-download"></i></a><br/>
+                    <span class="date">王富平 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580b3502ab09e.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/534" class="link">德比数据对接平台高可用架构实践</a>
+                    <a href="/slide/download/534/580b34ed25507.pdf/13" target="_blank"><i class="fa fa-download"></i></a><br/>
+                    <span class="date">朱攀 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580b2a3d1d692.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/533" class="link">新媒体与深度学习</a>
+                    <a href="/slide/download/533/580b29fb0775d.pdf/13" target="_blank"><i class="fa fa-download"></i></a><br/>
+                    <span class="date">孙子荀 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580b29bb5cc49.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/532" class="link">腾讯合约广告引擎与算法实践</a>
+                    <a href="/slide/download/532/580b299809cd7.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">陈戈 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580b2955443bf.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/531" class="link">wise 时代互联网广告的服务开放架构和实施</a>
+                    <a href="/slide/download/531/580b290d6e83b.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">李丰 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580b208c4943e.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/530" class="link">架构本质及微服务</a>
+                    <a href="/slide/download/530/580b205756bee.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">王庆友 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580b1c8583a78.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/529" class="link">构建可伸缩的软件开发团队</a>
+                    <a href="/slide/download/529/580b1c3526756.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">李智惠 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580b1b68d32bd.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/528" class="link">中美技术团队管理心得</a>
+                    <a href="/slide/download/528/580b1b40271a6.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">杨骏 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580b183cea6eb.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/527" class="link">从数理统计到机器学习——滴滴出行大数据预测体系分享与交流</a>
+                    <a href="/slide/download/527/580b182d1970d.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">张凌宇 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580b1704e7310.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/526" class="link">Spotify 广告系统架构演进</a>
+                    <a href="/slide/download/526/580b16b4e0d65.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">Kinshuk Mishra 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580b1641d4071.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/525" class="link">Spotify 是如何管理软件开发团队的</a>
+                    <a href="/slide/download/525/580b162b92593.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">Sebastiano Armeli 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580b152345c8b.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/523" class="link">深度学习框架的性能优化及其在医药行业的应用实践</a>
+                    <a href="/slide/download/523/580b14e20a26d.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">朱智勇 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580b148b6eec5.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/522" class="link">Learning To Rank在个性化电商搜索中的应用</a>
+                    <a href="/slide/download/522/580b147a66f3d.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">吴晨 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580b13a3bc88a.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/521" class="link">多维度实时可视化分析</a>
+                    <a href="/slide/download/521/580b13566a838.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">赵晟 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580b12fd0e4f1.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/520" class="link">大数据可视化在Autodesk的实现</a>
+                    <a href="/slide/download/520/580b12dc92e13.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">俞戴龙 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580b123d74db0.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/519" class="link">快速搭建轻量级微服务架构</a>
+                    <a href="/slide/download/519/580b1210c9d5c.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">黄勇 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580b11b8d8309.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/518" class="link">人人车核心业务系统发展之路</a>
+                    <a href="/slide/download/518/580b119eaf14c.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">徐章健 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580b1101c3f86.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/517" class="link">互联网＋下的CRM体验进化</a>
+                    <a href="/slide/download/517/580b10cbbc024.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">张涵 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580b10949c8c1.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/516" class="link">产品思维和设计思维详解</a>
+                    <a href="/slide/download/516/580b107447c71.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">张玉婷 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580b0fd7ddc1e.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/515" class="link">Conducting Guerrilla User Research for Validating an Innovative User Experience and Sustainable Business Model</a>
+                    <a href="/slide/download/515/580b0fb3e2c59.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">Jaime Levy 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580afd4e4d41e.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/513" class="link">从近年来中美技术创业对比看创业新机会</a>
+                    <a href="/slide/download/513/580afcec6cdb3.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">赵斌 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580afb2c68097.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/511" class="link">如何选好技术初创风口</a>
+                    <a href="/slide/download/511/580afafc7e4e7.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">毕鹏 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580afa47342d5.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/510" class="link">当你的团队还支撑不起梦想时</a>
+                    <a href="/slide/download/510/580af9b221ee3.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">杨荣伟 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580af953a3b49.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/509" class="link">外卖物流配送的大数据创新实践</a>
+                    <a href="/slide/download/509/580af9058119d.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">蒋凡 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580ae17cb55fb.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/508" class="link">Google 内部是如何实施大规模前端项目的</a>
+                    <a href="/slide/download/508/580ae14b9bda7.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">蔡建 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580adfb4475fb.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/507" class="link">使用 TypeScript 构建大规模 Web 应用</a>
+                    <a href="/slide/download/507/580adf727bb47.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">Jakub Jedryszek 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580ada21e82ed.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/506" class="link">LinkedIn 基于 Kafka 和 ElasticSearch 的实时日志分析系统</a>
+                    <a href="/slide/download/506/580ad9f63ee2a.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">李虓 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580ad801d17d6.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/505" class="link">Ruff：IoT 开发也敏捷？</a>
+                    <a href="/slide/download/505/580ad79cae29c.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date"> 郑晔 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580ad768b1a2f.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/504" class="link">React Native 项目实战之最后一公里——增量升级解决方案</a>
+                    <a href="/slide/download/504/580ad5ae832c2.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">胡继伟/曹楠 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580ad4e0ee86a.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/503" class="link">人工智能与软件架构</a>
+                    <a href="/slide/download/503/580ad4acda77e.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">黄柳青 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580ad365e94d4.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/502" class="link">Golang+Lua 在京东前端业务系统中最佳实践</a>
+                    <a href="/slide/download/502/580ad32ba21f7.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">谢刚 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580ad26541dfb.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/501" class="link">小米程序化广告交易平台（MAX）的架构实践</a>
+                    <a href="/slide/download/501/580ad240d7ea7.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">欧阳辰 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580ad21375d8f.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/500" class="link">计算广告的训练和平滑思想</a>
+                    <a href="/slide/download/500/580ad1be4fc51.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">崔骁凯 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580ac5600c1f8.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/499" class="link">Growth Hacking 最新动态和最佳实践</a>
+                    <a href="/slide/download/499/580ac527c3ecc.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">覃超 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580ac2365030e.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/498" class="link">混合云——无缝的云旅程体验</a>
+                    <a href="/slide/download/498/580ac0b5094c3.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">K. Y. Srinivasan 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580abd4c2a63c.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/497" class="link">高效移动 App 交付保障体系</a>
+                    <a href="/slide/download/497/580abd0860bf2.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">倪生华（玄黎） 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580abbd632fbe.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/496" class="link">移动页面加速框架的探索与实践</a>
+                    <a href="/slide/download/496/580abba915f6e.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">沈洲 2016-10-22</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809e443c02e7.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/495" class="link">Load Balancing Microservices at ELEME</a>
+                    <a href="/slide/download/495/5809e41dc4a4b.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">张天文 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809dd1258c01.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/494" class="link">监控系统产品选型以及经验</a>
+                    <a href="/slide/download/494/5809dcf4296a6.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">尤勇 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809db3904c25.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/493" class="link">安卓 APK 的防二次打包解决方案</a>
+                    <a href="/slide/download/493/5809dafa15ac3.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">何晓杰 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809da59e3d7b.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/492" class="link">蘑菇街 App 性能与稳定性实践</a>
+                    <a href="/slide/download/492/5809d9ef9b45b.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">李忠 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809d8f1cd664.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/491" class="link">如何打造满足千万日活的二手交易平台</a>
+                    <a href="/slide/download/491/5809d8bd0011e.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">孙玄 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809cb59bbb6a.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/490" class="link">CQRS &amp; Event Sourcing 在互联网金融系统中的应用与实践</a>
+                    <a href="/slide/download/490/5809cb2da600f.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">姚晨 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809c955af971.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/489" class="link">什么是架构的极致？——由 IoT 核心参考架构 Sluff 带来的思考</a>
+                    <a href="/slide/download/489/5809c928486f1.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">周爱民 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809c74e1baa4.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/488" class="link">付钱拉的 API 架构演进</a>
+                    <a href="/slide/download/488/5809c729a7c24.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">史晓慕 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809c613e815d.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/487" class="link">京东大促之大规模分布式监控系统实践</a>
+                    <a href="/slide/download/487/5809c5f776b52.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">鲍永成 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809bf2bd84c6.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/486" class="link">网易 APM 数据处理系统实践</a>
+                    <a href="/slide/download/486/5809bf15ec4ed.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">焦智慧 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809be6dbb03e.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/485" class="link">Weex极致性能优化</a>
+                    <a href="/slide/download/485/5809bdec4c7e3.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">冯成晓（隐风） 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809bd82c05d0.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/484" class="link">百亿级通用推荐系统实践</a>
+                    <a href="/slide/download/484/5809bd5ff3a51.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">吕慧伟 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809bcce44f8e.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/483" class="link">携程redis多数据中心实践</a>
+                    <a href="/slide/download/483/5809bca379710.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">孟文超 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809bb90841fe.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/482" class="link">聚划算插件化生存之道</a>
+                    <a href="/slide/download/482/5809bb74688cc.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">金津 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809b8ff40955.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/481" class="link">企业基于微服务的应用架构设计范式</a>
+                    <a href="/slide/download/481/5809b8d32ae01.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">朱江 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809b459a50fa.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/479" class="link">React Native 业务实践和性能优化</a>
+                    <a href="/slide/download/479/5809b3de09d43.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date"> 赵辛贵 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809b26d46561.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/478" class="link">视频直播主观质量的几个细节</a>
+                    <a href="/slide/download/478/5809b1f14c48f.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">姚冬 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809b0dd93c14.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/477" class="link">微博视频推荐</a>
+                    <a href="/slide/download/477/580abda5c0e1e.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">冯扬 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809b01c8babb.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/476" class="link"> 播放量从每天 100 万到 10 亿，我们做对了哪些</a>
+                    <a href="/slide/download/476/5809affdce136.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">侯明强 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809af8c95ef8.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/475" class="link">映客直播服务端架构优化之路</a>
+                    <a href="/slide/download/475/5809ada9688ec.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">王振涛 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809abf97c9ae.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/473" class="link">携程的推荐及智能化算法及架构体系实践</a>
+                    <a href="/slide/download/473/5809abb152682.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">于磊 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809a9f189115.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/472" class="link">阿里巴巴的数据研发体系是如何建立和管理的？</a>
+                    <a href="/slide/download/472/5809a8ed364a6.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">张磊（宗超） 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580990cd9953a.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/471" class="link">大数据与电商四大核心要素</a>
+                    <a href="/slide/download/471/580990bc7f9aa.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">杨光耀 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/58099087ad449.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/470" class="link">全景业务监控平台（Goldeneye）</a>
+                    <a href="/slide/download/470/58099054c1100.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">马小鹏 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/58098d8832626.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/469" class="link">转型路上，苏宁技术的砥砺与涅槃</a>
+                    <a href="/slide/download/469/58098d4f1a680.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">乔新亮 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580986232562c.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/468" class="link">企业容器云平台实践</a>
+                    <a href="/slide/download/468/58098607e9bb6.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">刘相 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809856fa3cda.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/467" class="link">如何打造大规模互联网企业的监控告警平台——以携程 hickwall 为例</a>
+                    <a href="/slide/download/467/580984e1c891a.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">唐锐华 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/58098565c70ab.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/466" class="link">打造万亿级别的数据流水线</a>
+                    <a href="/slide/download/466/580984d61d636.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">吴震 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809844ec9082.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/465" class="link">《如何打造一个百万亿级的日志搜索引擎：Poseidon》</a>
+                    <a href="/slide/download/465/5809843418c8f.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">魏自立 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809830e42717.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/464" class="link">使用Apache Kafka进行关键业务消息传输</a>
+                    <a href="/slide/download/464/580982ecb470b.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">秦江杰 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809819b0ef43.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/462" class="link">企业海量数据全面云数据服务</a>
+                    <a href="/slide/download/462/580981283ff8c.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">李丽 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580981a0905ca.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/461" class="link">同程旅游微服务架构设计实践</a>
+                    <a href="/slide/download/461/5809815cafb15.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">王晓波 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/58097d2cc75a0.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/459" class="link">如何开发10万在线级别的直播弹幕技术</a>
+                    <a href="/slide/download/459/58097d0ebe7f8.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">张虎 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/58097b6c58d06.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/458" class="link">海量数据推送服务——实时处理架构的演进</a>
+                    <a href="/slide/download/458/580979f91d5c9.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date"> 许建辉 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580978d3ca919.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/457" class="link">美丽联合集团消息推送服务</a>
+                    <a href="/slide/download/457/580977f41b7fd.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">张杰 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809777808b8d.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/456" class="link">大规模实时流处理平台架构</a>
+                    <a href="/slide/download/456/5809773744941.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">卜赫 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809776440bdc.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/455" class="link">How Amigo works (Android Hotfix Terminator)</a>
+                    <a href="/slide/download/455/58097748e47b7.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">曹玉斌 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580976ca8d453.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/454" class="link">APK沙箱技术在平台型App中的架构实战</a>
+                    <a href="/slide/download/454/580976b4b53d0.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">黄明登 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5809760b06677.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/453" class="link">云服务之路，云信即时通讯云实践</a>
+                    <a href="/slide/download/453/580975e74c0b0.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">阙杭宁 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580975b48fb7e.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/452" class="link">比 Buck 更快——蚂蚁聚宝 Android 秒级编译方案 Freeline</a>
+                    <a href="/slide/download/452/5809758ee5558.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">何嘉文(弦影) 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580975aede156.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/451" class="link">Spotify 高度可靠的事件交付系统是如何设计与运维的</a>
+                    <a href="/slide/download/451/5809752e43960.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">Igor Maravić 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580974f6cd645.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/450" class="link">Twitter 的监控系统是如何处理十亿量级 metrics 的——Twitter 的 Observability stack 的架构实践</a>
+                    <a href="/slide/download/450/580973edd6045.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">黄浩 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580974ba0f196.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/449" class="link">基于Hive  ES 金融大数据指标系统</a>
+                    <a href="/slide/download/449/580974953a1c4.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">沈百军 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580974038efad.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/447" class="link">企业海量数据全面云数据服务</a>
+                    <a href="/slide/download/447/580973a31e983.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">李丽 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/58097110a39f3.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/446" class="link">基于 Docker 的云处理服务：更新、扩容与自动容错</a>
+                    <a href="/slide/download/446/580970c575fa0.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">叶靖 2016-10-21</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/58089b0ce1876.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/445" class="link">浏览器端 JavaScript 异常监控 For Dummies</a>
+                    <a href="/slide/download/445/5808ab67c67af.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">刘小杰 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5808998665e8c.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/444" class="link">Java 模块化技术演进和对现有应用微服务化的意义</a>
+                    <a href="/slide/download/444/5808994e8d1b2.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">张建锋 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580887270dfca.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/443" class="link">LBS与游戏结合实战</a>
+                    <a href="/slide/download/443/5808870f3b7ca.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">朴春植 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580885a3740b9.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/442" class="link">蘑菇街前后端分离实践</a>
+                    <a href="/slide/download/442/5808858785381.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">陈辉（沉辉） 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5808855623324.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/441" class="link">JVM 虚拟化—— 重新定义 Java 容器热部署资源管理机制</a>
+                    <a href="/slide/download/441/580884d6efacd.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">陆传胜 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580884aa6cf67.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/440" class="link">Mesos在教育课件云中的应用</a>
+                    <a href="/slide/download/440/580884334f4a1.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">黄凯 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/58087c99f1de0.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/439" class="link"> 携程多机房微服务灰度发布</a>
+                    <a href="/slide/download/439/58087c786be3e.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">王潇俊 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580883d30bc04.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/438" class="link">个推系统优化与运维</a>
+                    <a href="/slide/download/438/580883aa6a2bf.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">乔亚博 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/58087a07cdc5a.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/437" class="link">大型企业云平台架构和关键技术实践</a>
+                    <a href="/slide/download/437/580879bf60f31.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">苗彩霞 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5808789902849.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/436" class="link">站在巨人的肩膀上——构建公有云平台上的容器服务</a>
+                    <a href="/slide/download/436/58087811553ff.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">俞圆圆（Y3） 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580877cf311bc.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/435" class="link">腾讯云容器集群实践</a>
+                    <a href="/slide/download/435/580877b72439e.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">陈浪交 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/58087785ccac9.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/434" class="link">Yarn on Docker——容器技术在大数据场景下的应用</a>
+                    <a href="/slide/download/434/5808774e59075.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">宋净超 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5808744f0a12b.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/433" class="link"> Java 探针技术在应用安全领域的新突破</a>
+                    <a href="/slide/download/433/580873ce06474.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">刘再耀 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/58086dde94844.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/432" class="link">冰与火之歌：企业安全的攻与防</a>
+                    <a href="/slide/download/432/58086dbc9b324.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">凌云 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/58086c98beadf.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/431" class="link">Vue 2.0- 渐进式前端解决方案</a>
+                    <a href="/slide/download/431/58086c6fab5fc.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">尤雨溪 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/58086b90325c6.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/430" class="link">构建规模化的企业级风险感知体验</a>
+                    <a href="/slide/download/430/58086b7bf25fe.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">张天琪 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/58086b4f5ff81.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/429" class="link">3D 技术在电商网站中的应用和发展</a>
+                    <a href="/slide/download/429/58086b3a024c9.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date"> 黄如华（仙羽） 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/58086ae4af73a.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/428" class="link">浅谈代码复用攻击与防御</a>
+                    <a href="/slide/download/428/58086abfcfca8.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">陈平 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/58086a52ec92f.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/427" class="link">电商 CRM 的微服务重构实践</a>
+                    <a href="/slide/download/427/58086a1fe2ede.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">邱小侠 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/58086a019640c.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/425" class="link">通往企业核心数据之路</a>
+                    <a href="/slide/download/425/580869e79f8b0.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">王依民 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580869ae835a9.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/424" class="link">美团大众点评微服务实践——服务框架 Pigeon 的设计与实现</a>
+                    <a href="/slide/download/424/5808693a67416.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">吴湘 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5808670aaa540.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/420" class="link">在线服务的流量管控实践</a>
+                    <a href="/slide/download/420/580866eb8f328.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">刘魁  2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580866609cf16.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/419" class="link">基于云平台的 Docker 多租户安全</a>
+                    <a href="/slide/download/419/580865cd9d83f.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">汤志敏 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/58086411a0af0.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/418" class="link">THIS IS NOT A DRILL-Preparing for JDK 9</a>
+                    <a href="/slide/download/418/580863af469f3.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">Rory Donnell 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580851954df65.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/417" class="link">程序员的深度入门学习指导</a>
+                    <a href="/slide/download/417/580851685e400.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">费良宏  2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/58083ed244cf8.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/416" class="link">大数据集群在 Kubernetes 上的实践</a>
+                    <a href="/slide/download/416/58083e7f1f3d0.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">郑泽宇 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/58083df2eeda5.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/415" class="link">大数据的提升</a>
+                    <a href="/slide/download/415/58083db56a62c.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">Tony Shan 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/58083c4d9c20c.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/414" class="link">优化工程师文化</a>
+                    <a href="/slide/download/414/58083c2ca72be.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">Pete Soderling 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580834f7af76c.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/413" class="link">移动端 APM 产品研发技能</a>
+                    <a href="/slide/download/413/5808282bd1239.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">江赛 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580823a80da3d.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/412" class="link">云原生数据流水线</a>
+                    <a href="/slide/download/412/5808238d3e1ef.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">Sid Anand 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580826b0c95fe.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/411" class="link">如何通过 APP+Wi-Fi 数据给企业做大数据精准用户画像v2</a>
+                    <a href="/slide/download/411/5808269385ff9.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">郭炜 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580824da849cf.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/410" class="link">微服务：模式与实践</a>
+                    <a href="/slide/download/410/580824995c53a.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">Wesley Reisz 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/58082478523c6.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/409" class="link">构建微服务体系下的全链路监控系统</a>
+                    <a href="/slide/download/409/5808242245ec5.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">姚捷 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580823bb964b3.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/408" class="link">Qcon DerbySoft1017</a>
+                    <a href="/slide/download/408/58082396b6d64.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">藕锋 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/5808232787532.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/407" class="link">滴滴代驾微服务架构演进</a>
+                    <a href="/slide/download/407/5808230f74a86.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">赵伟 2016-10-20</span>
+                </div>
+            </li>
+                    <li class="clear">
+                <div class="avatar">
+                    <img class="image" src="http://static.geekbang.org/ck/580822992f672.png?imageView2/0/w/100"/>
+                </div>
+                <div class="download">
+                    <a href="/slide/show/406" class="link">以应用为核心，重走上云之路</a>
+                    <a href="/slide/download/406/5808205f3fa5d.pdf/13" target="_blank"><i class="fa fa-download"></i></a>
+                    <span class="date">郭宗敬 2016-10-20</span>
+                </div>
+            </li>
+                    <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+
+   </body>
